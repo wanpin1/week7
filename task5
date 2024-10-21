@@ -1,0 +1,6 @@
+// Passing Parameters
+// lab4Task5.java
+public static void nPrintin(String message, int n) {
+    for (int i = 0; i < n; i++)
+        System.out.println(message);
+}
