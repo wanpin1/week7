@@ -1,0 +1,18 @@
+
+// Generating Random Characters (Example 6.8)
+//lab4Task10.java
+
+public class RandomCharacter {
+public static char getRandomLowerCaseLetter () {
+// 这里应该是生成随机小写字母的逻辑
+return 'a';
+}
+public static char getRandomUpperCaseLetter () {
+// 这里应该是生成随机大写字母的逻辑
+return 'A';
+}
+public static char getRandomDigitCharacter () {
+// 这里应该是生成随机数字字符的逻辑
+return '0';
+}
+}
