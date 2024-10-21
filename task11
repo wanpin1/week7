@@ -1,8 +1,7 @@
 12. ```java
    // Generating Random Characters (Example 6.9)
    // lab4Task11.java
-   // 由于没有完整代码示例，这里无法给出完整代码，但可以推测是一个关于显示随机小写字母的程序
-   // 以下是一个可能的简单示例框架
+
    public class TestRandomCharacter {
        public static void main(String[] args) {
            RandomCharacter randomCharacter = new RandomCharacter();
