@@ -1,0 +1,15 @@
+// Stepwise Refinement (Example 6.10)
+//lab4Task12.java
+public class lab4Task12 {
+public static void main (String [] args) {
+Scanner input = new Scanner (System.in);
+System.out.print ("Enter full year (e.g., 2012):");
+int year = input.nextInt ();
+System.out.print ("Enter month as number between 1 and 12:");
+int month = input.nextInt ();
+printCalendar (year, month);
+}
+public static void printCalendar (int year, int month) {
+// 这里应该是打印日历的逻辑
+}
+}
